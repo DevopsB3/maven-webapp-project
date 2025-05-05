@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK AWS</h1>
+<h1 align="center">Welcome to KK AWs Devops</h1>
 <h1 align="center"> KK FUNDA</h1>
 <div><button>Login</button></div>
 <div><button>Register Now</button></div>
